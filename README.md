@@ -3,7 +3,7 @@
 [![C Programming](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))  
 [![RISC-V](https://img.shields.io/badge/ISA-RISC--V-green.svg)](https://riscv.org)  
 [![Status](https://img.shields.io/badge/Project-Working-success.svg)]()  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 A simple assembler built in **C** to convert **R-format RISC-V assembly code** into **32-bit machine code** in hexadecimal. Inspired by tools like **Ripes**, it handles error checking, register mapping, and outputs clean machine code.
 
@@ -113,8 +113,3 @@ Made with ❤️ by a **B.Tech AI student at IIT Hyderabad**
 Focused on exploring **systems programming, compilers, and low-level architecture.**
 
 ---
-
-## 📝 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) — feel free to use and modify it!
-
